@@ -4,7 +4,7 @@ function App() {
 
   return (
     <div>
-      learn github actions with react
+      learn github actions with react vite
     </div>
   )
 }
